@@ -8,7 +8,7 @@ What I learnt :
 - Data Plumbing- Combined the data that was split across multiple CSV Files to develop a larger dataset
 - Bucketing and Summarizing - Categorized the data based on IDs, Genres, Actors and Directors.
 - Vizualisation - Used Matplotlib to produce Bar Graphs
-# Interesting Questions Answered - 
+### Interesting Questions Answered 
 - Number of movies in each genre prior to a particular year - Helped predicte genre popularity
 - Found out directors with the longest careers
 - Found out actors with longest careers
