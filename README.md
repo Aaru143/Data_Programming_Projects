@@ -32,6 +32,20 @@ Analyzed a dataset of Amazon Products Review. Complete prompt for the project ca
 
 
 
+# 3. Geography and the World Wide Web 
+Study statistics for 174 countries of the world and vizualised the data. Complete prompt for the project can be found here : https://github.com/tylerharter/cs301-projects/tree/master/fall19/p10
+
+### What I learnt :
+- Scraping data from web using BeautifulSoup and use Pandas to study the data
+- Used SQL Queries to obtain data using sqlite3 and create DataFrames.
+- Vizualisation - Used Matplotlib to produce Bar Graphs and Scatterplot
+### Interesting Questions Answered :
+- Plotted each country's GDP and Population for comparison
+- Used a scatterplot to study the correlation between GDP and other variables like - literacy rate, phones per capita
+- Found distance between each country and print the nearest country
+
+
+
 
 
 
