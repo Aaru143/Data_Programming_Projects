@@ -46,10 +46,38 @@ Study statistics for 174 countries of the world and vizualised the data. Complet
 
 
 
+# 4. Madison Metro 
+Designed a module to analyze Madison's Metro Bus Route System. Learnt the use of classes and modules. 
+Complete prompt for the project can be found here : https://github.com/tylerharter/cs320/tree/master/s20/p2
+
+### Features :
+- Allows user to search for a bus trip by Route ID
+- A Binary Tree to search bus stops in a particular area
+- Identify which trips are likely to have passengers with bikes
+- Visualize bus stops, with special marks for wheelchair accessible bus stops
+
+
+
+# 5. Building a Data Website
+Build a website using Flask - to share a dataset. Used A/B Tetsing to find the better verison for the homepage of the website
+Complete prompt for the project can be found here : https://github.com/tylerharter/cs320/tree/master/s20/p3
+
+### Features :
+- Allows user to make API calls and get data
 
 
 
 
+# 6. EDGAR Data 
+Used Zip module to process huge dataset. Used GeoPandas and produced HeatMaps
+Complete prompt for the project can be found here : https://github.com/tylerharter/cs320/tree/master/s20/p4
+
+### Features :
+- A command-line tool to process EDGAR web logs. 
+- Allows user to see countires producing the most and least data in a HeatMap
 
 
+# 7. Hospital Readmission
+Performed an analysis of 70,000 Patient Records form the Clinical Database. Used scikit to perform linear regressions and train model and test it. Visualized on plots to study.
+Complete prompt for the project can be found here : https://github.com/tylerharter/cs320/tree/master/s20/p6
 
